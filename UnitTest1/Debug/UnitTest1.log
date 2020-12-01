@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+D:\Patiuk\AP\lab_2\labs9\lab9.2_A\lab9.2_A.cpp(6,761): warning C4101: 'MenuItem': unreferenced local variable
+D:\Patiuk\AP\lab_2\labs9\lab9.2_A\lab9.2_A.cpp(35,104): warning C4101: 'kurs': unreferenced local variable
+     Creating library D:\Patiuk\AP\lab_2\labs9\lab9.2_A\Debug\UnitTest1.lib and object D:\Patiuk\AP\lab_2\labs9\lab9.2_A\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\Patiuk\AP\lab_2\labs9\lab9.2_A\Debug\UnitTest1.dll
